@@ -1,4 +1,4 @@
-package thirtydaysofcoding;
+package thirtydaysofcoding.day8;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package thirtydaysofcoding;
+package thirtydaysofcoding.day9;
 
 public class Day9_Recursion {
 
